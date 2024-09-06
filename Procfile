@@ -1,1 +1,1 @@
-web: java -jar target/Website.jar
+web: java -jar target/Website-1.0.jar
